@@ -7,4 +7,4 @@ for (i = 0; i < frase; i++) {
         cont = cont + 1
     }
 }
-document.write("La cantidad de volcales qeu tiene el texto es " + cont);
+document.write("La cantidad de volcales que tiene el texto es " + cont);
